@@ -31,7 +31,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 # Publications
 
 [1] Xin S Q, Levy B, Chen Z, et al. Centroidal power diagrams with capacity constraints: computation, applications, and extension[J]. ACM Transactions on Graphics, 2016, 35(6):1-12. (SCI, CCF_A类)
+
  [2] Xin S Q, Wang W, Chen S, et al. Intrinsic Girth Function for Shape Processing[J]. ACM Transactions on Graphics, 2016, 35(3):1-14. (SCI, CCF_A类)
+ 
  [3] Xin S Q, Lai C F, Fu C W, et al. Making burr puzzles from 3D models[J]. ACM Transactions on Graphics, 2011, 30(4):97. (SCI, CCF_A类)
  [4] Xin S Q, Wang G J. Improving Chen and Han's algorithm on the discrete geodesic problem[J]. ACM Transactions on Graphics, 2009, 28(4):104. (SCI, CCF_A类)
  [5] Ying X, Xin S Q, He Y. Parallel Chen-Han (PCH) algorithm for discrete geodesics[J]. ACM Transactions on Graphics, 2013, 33(1):1-11. (SCI, CCF_A类)
